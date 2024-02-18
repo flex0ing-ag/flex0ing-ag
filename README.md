@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flex0ing-ag
 - 👀 I’m interested in coding, video editing, videography, and photography. 
-- 🌱 I’m currently learning C language. I know HTML and CSS. I am working on developing my skills. 
+- 🌱 Digital enthusiast exploring code (C, C++, HTML, CSS, Dart) and crafting captivating visuals through video editing, videography, and photography. Let's innovate together! 🎨✨
 - 💞️ I’m looking to collaborate on ...
 -
  📫 How to reach me ...
