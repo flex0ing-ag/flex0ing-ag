@@ -3,7 +3,7 @@
 
 ---
 
--### 📫 Connect with me
+### 📫 Connect with me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-gupta-537769281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansrkghamirpur@gmail.com) 
 
@@ -41,7 +41,8 @@
   <img src="https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Hook%20Form-000?style=flat-square&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gunicorn-000?style=flat-square&logo=gunicorn&logoColor=white" />
+  <img src
+="https://img.shields.io/badge/-Gunicorn-000?style=flat-square&logo=gunicorn&logoColor=white" />
   <img src="https://img.shields.io/badge/-NPM-000?style=flat-square&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Prisma-000?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Chart.js-000?style=flat-square&logo=chartdotjs&logoColor=white" />
